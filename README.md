@@ -1,13 +1,13 @@
 # MapAnimation
 
 ### Description 
-The assignment was to simulate PacMan biting down across the screen. I used four different images of PacMan. I was able to update them giving the illusion he was eating. 
+The assignment was to simulate takes an API request and allows us to see the bus stops from MIT to Harvard. All that needs to be done is click the button and watch the marker go! 
 
 ### Installation
 It was made in the browser. No additional software is necessary.  
 
 ### Usage
-Click the button. SetTimeout with loop through an array of cooridnates to show the bus stops from MIT to Harvard. 
+You will need your own API access token. Go to https://www.mapbox.com/ to get a free link. Click the button. SetTimeout with loop through an array of cooridnates to show the bus stops from MIT to Harvard. 
 
 ### Support 
 twitter.com/RYANMcBRlDE
